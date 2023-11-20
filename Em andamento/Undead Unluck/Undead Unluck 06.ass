@@ -33,7 +33,7 @@ Dialogue: 0,0:00:20.75,0:00:23.92,Default,,0,0,0,,{\i1}Parcialmente foi para pro
 Dialogue: 0,0:00:24.95,0:00:28.21,Default,,0,0,0,,{\i1}Eles encontram os membros da Union na sala da Távola Redonda.
 Dialogue: 0,0:00:28.21,0:00:31.22,Default,,0,0,0,,{\i1}As palavras firmes da líder Juiz faz Fuuko perceber
 Dialogue: 0,0:00:31.22,0:00:35.80,Default,,0,0,0,,{\i1}o quão distante está seu desejo de mudar a organização.
-Dialogue: 0,0:00:36.70,0:00:40.94,Default,,0,0,0,,{\i1}Andy, em busca de sua própria morte, deseja realizar o desejo da Fuuko.
+Dialogue: 0,0:00:36.70,0:00:40.94,Default,,0,0,0,,{\i1}Andy, em busca de sua própria morte, deseja realizar o desejo de Fuuko.
 Dialogue: 0,0:00:40.94,0:00:44.48,Default,,0,0,0,,{\i1}Com o objetivo de aumentar a afeição por ele,\N o componente essencial para o Unluck,
 Dialogue: 0,0:00:44.48,0:00:48.78,Default,,0,0,0,,{\i1}ele vai atrás da quest mais difícil para avançar sua posição.
 Dialogue: 0,0:00:49.19,0:00:52.16,Default,,0,0,0,,{\i1}Envolvendo Shen, a pessoa que os chamou para a Távola Redonda.
@@ -137,7 +137,7 @@ Dialogue: 0,0:09:52.71,0:09:59.16,Default,,0,0,0,,Mas, se algum de vocês ainda 
 Dialogue: 0,0:09:59.16,0:10:02.62,Default,,0,0,0,,que fez isso aos seus corpos, então é melhor aparecer!
 Dialogue: 0,0:10:03.08,0:10:04.79,Default,,0,0,0,,Precisamos conversar.
 Dialogue: 0,0:10:05.24,0:10:06.88,Default,,0,0,0,,Círculo de Sangue:
-Dialogue: 0,0:10:14.68,0:10:16.35,Default,,0,0,0,,Lua Crescente Carmesim!
+Dialogue: 0,0:10:14.68,0:10:16.35,Default,,0,0,0,,Quarto Crescente Carmesim!
 Dialogue: 0,0:10:20.46,0:10:23.19,Default,,0,0,0,,Seu namorado é mesmo impressionante!
 Dialogue: 0,0:10:23.19,0:10:24.56,Default,,0,0,0,,{\fnRoboto Medium\b0\pos(960,164)\fs70\blur0.4\bord0\shad0}Ele não é meu namorado!
 Dialogue: 0,0:10:32.33,0:10:34.41,Default,,0,0,0,,Então há um...
@@ -163,7 +163,7 @@ Dialogue: 0,0:12:02.38,0:12:07.36,Default,,0,0,0,,Te conhecendo, você pretendia
 Dialogue: 0,0:12:07.36,0:12:09.63,Default,,0,0,0,,Mas essa é uma péssima estratégia contra um UMA.
 Dialogue: 0,0:12:10.89,0:12:12.75,Default,,0,0,0,,Ele já deve ter ativado sua habilidade.
 Dialogue: 0,0:12:12.75,0:12:14.13,Default,,0,0,0,,Quê? Já?
-Dialogue: 0,0:12:14.49,0:12:19.84,Default,,0,0,0,,{\i1\q2}A maioria dos UMAs vão impor sua Regra em qualquer\N um que entrar no alcance deles, sem exceções!
+Dialogue: 0,0:12:14.49,0:12:19.84,Default,,0,0,0,,{\q2}A maioria dos UMAs vão impor suas Regras em qualquer\N um que entrar no alcance deles, sem exceções!
 Dialogue: 0,0:12:21.63,0:12:24.39,Default,,0,0,0,,Compreendo, peço desculpa a ambos.
 Dialogue: 0,0:12:26.85,0:12:29.54,Default,,0,0,0,,Não esperava ouvir desculpas tão rápido.
 Dialogue: 0,0:12:32.10,0:12:34.62,Default,,0,0,0,,Você se sente anormal de alguma forma?

@@ -68,10 +68,10 @@ Dialogue: 60,0:04:35.58,0:04:37.63,Default,,0,0,0,,Undead... e Unluck.
 Dialogue: 60,0:04:37.63,0:04:39.30,Default,,0,0,0,,Sejam bem-vindos à Union.
 Dialogue: 60,0:05:12.70,0:05:14.96,Default,,0,0,0,,Fatal! Mortalmente fatal!
 Dialogue: 60,0:05:25.66,0:05:27.56,Default,,0,0,0,,Não, Tatiana.
-Dialogue: 60,0:05:27.56,0:05:30.02,Default,,0,0,0,,Ele matou a Srta. Gena!
-Dialogue: 60,0:05:32.12,0:05:35.80,Default,,0,0,0,,Eu sei, mas lutas entre membros é absolutamente proibido.
+Dialogue: 60,0:05:27.56,0:05:30.02,Default,,0,0,0,,Ele matou a Sra. Gena!
+Dialogue: 60,0:05:32.12,0:05:35.80,Default,,0,0,0,,Eu sei, mas lutas entre membros são absolutamente proibidas.
 Dialogue: 60,0:05:35.80,0:05:36.90,Default,,0,0,0,,Mas...
-Dialogue: 60,0:05:36.90,0:05:38.96,Default,,0,0,0,,Pelo menos tem alguém aqui com pavio curto.
+Dialogue: 60,0:05:36.90,0:05:38.96,Default,,0,0,0,,Tem alguém aqui com pavio curto.
 Comment: 60,0:05:38.96,0:05:39.86,Default,,0,0,0,,Hein?
 Dialogue: 60,0:05:44.15,0:05:45.45,Default,,0,0,0,,Maldito...
 Dialogue: 60,0:05:45.45,0:05:46.98,Default,,0,0,0,,Parem com isso.
@@ -90,7 +90,7 @@ Dialogue: 60,0:06:34.34,0:06:36.26,Default,,0,0,0,,Estão todos em seus assentos
 Dialogue: 60,0:06:37.17,0:06:39.50,Default,,0,0,0,,Prossiga, Apocalypse.
 Dialogue: 60,0:06:43.84,0:06:45.51,Default,,0,0,0,,Sangue fresco?
 Dialogue: 60,0:06:46.34,0:06:48.01,Default,,0,0,0,,Apocalypse.
-Dialogue: 60,0:06:51.37,0:06:53.60,Default,,0,0,0,,Quest open!
+Dialogue: 60,0:06:51.37,0:06:53.60,Default,,0,0,0,,{\i1}Quest open{\i0}!
 Dialogue: 60,0:07:02.36,0:07:05.07,Default,,0,0,0,,Há seis quests dessa vez.
 Dialogue: 60,0:07:05.55,0:07:07.49,Default,,0,0,0,,Quest um:
 Dialogue: 60,0:07:07.49,0:07:09.70,Default,,0,0,0,,captura do UMA Burn.
@@ -104,7 +104,7 @@ Dialogue: 60,0:07:29.50,0:07:31.35,Default,,0,0,0,,Quest três:
 Dialogue: 60,0:07:31.75,0:07:34.68,Default,,0,0,0,,neutralização do UMA Language.
 Dialogue: 60,0:07:34.68,0:07:36.62,Default,,0,0,0,,Participantes: um.
 Dialogue: 60,0:07:36.62,0:07:39.98,Default,,0,0,0,,Recompensa: unificação de todos os idiomas do mundo.
-Dialogue: 60,0:07:41.90,0:07:46.98,Default,,0,0,0,,Quests... então essa é a cota mencionada pela Gena.
+Dialogue: 60,0:07:41.90,0:07:46.98,Default,,0,0,0,,Quests... então essa é a cota mencionada pela Gena?
 Dialogue: 60,0:07:46.98,0:07:50.19,Default,,0,0,0,,Ei... do que aquela coisa está falando?
 Dialogue: 60,0:07:50.19,0:07:54.02,Default,,0,0,0,,Estamos adquirindo informação. Tente guardar o máximo que puder da conversa.
 Dialogue: 60,0:07:54.02,0:07:55.37,Default,,0,0,0,,T-Tá bom.
@@ -120,7 +120,8 @@ Dialogue: 60,0:08:27.29,0:08:29.36,Default,,0,0,0,,Quest seis:
 Dialogue: 60,0:08:29.67,0:08:32.32,Default,,0,0,0,,captura do UMA Spoil.
 Dialogue: 60,0:08:32.32,0:08:34.58,Default,,0,0,0,,Participantes: três.
 Dialogue: 60,0:08:34.58,0:08:38.50,Default,,0,0,0,,Recompensa: localização do Negador Unrepair.
-Dialogue: 60,0:08:41.75,0:08:49.97,Default,,0,0,0,,O prazo é até 31 de agosto. Se todas as quests não forem cumpridas, a penalidade será...
+Dialogue: 60,0:08:41.75,0:08:45.19,Default,,0,0,0,,O prazo é até 31 de agosto.
+Dialogue: 60,0:08:45.19,0:08:49.97,Default,,0,0,0,,Se todas as quests não forem cumpridas, a penalidade será...
 Dialogue: 60,0:08:51.30,0:08:54.31,Default,,0,0,0,,a inclusão do UMA Galaxy!
 Dialogue: 60,0:08:55.42,0:08:57.52,Default,,0,0,0,,Agora escolham!
 Dialogue: 60,0:08:57.90,0:08:59.60,Default,,0,0,0,,O que ele quis dizer com "Galaxy"?
@@ -149,7 +150,7 @@ Dialogue: 60,0:10:12.24,0:10:15.97,Default,,0,0,0,,Quando Negadores preenchem to
 Dialogue: 60,0:10:17.39,0:10:19.84,Default,,0,0,0,,e nos força a um monte de tarefas irracionais.
 Dialogue: 60,0:10:19.84,0:10:21.73,Default,,0,0,0,,Se as completarmos, recebemos uma recompensa.
 Dialogue: 60,0:10:21.73,0:10:24.44,Default,,0,0,0,,Mas, se falharmos, somos penalizados.
-Dialogue: 60,0:10:27.06,0:10:29.86,Default,,0,0,0,,Entendo... mas temos que fazer o que ele diz?
+Dialogue: 60,0:10:27.06,0:10:29.86,Default,,0,0,0,,Mas nós... temos mesmo que fazer o que ele diz?
 Dialogue: 60,0:10:31.76,0:10:33.65,Default,,0,0,0,,Vale a pena mesmo se...
 Dialogue: 60,0:10:33.91,0:10:35.87,Default,,0,0,0,,terminarmos nos ferindo?
 Dialogue: 60,0:10:36.69,0:10:38.56,Default,,0,0,0,,Eu ouvi isso da Srta. Gena.
@@ -161,9 +162,9 @@ Dialogue: 60,0:10:57.21,0:11:01.39,Default,,0,0,0,,Além de nossas habilidades, 
 Dialogue: 60,0:11:01.90,0:11:06.81,Default,,0,0,0,,Isso não vale pra todos vocês?
 Dialogue: 60,0:11:06.81,0:11:09.86,Default,,0,0,0,,Não sei o que está acontecendo aqui, \Nmas isso precisa dar um basta.
 Dialogue: 60,0:11:09.86,0:11:11.32,Default,,0,0,0,,Noventa e oito.
-Dialogue: 60,0:11:12.75,0:11:15.45,Default,,0,0,0,,Esse é o número de vezes que Rules foram adicionadas à Terra.
+Dialogue: 60,0:11:12.75,0:11:15.45,Default,,0,0,0,,Esse é o número de vezes que Regras foram adicionadas à Terra.
 Dialogue: 60,0:11:16.44,0:11:17.63,Default,,0,0,0,,Sexo.
-Dialogue: 60,0:11:18.43,0:11:19.31,Default,,0,0,0,,Idioma.
+Dialogue: 60,0:11:18.43,0:11:19.31,Default,,0,0,0,,Linguagem.
 Dialogue: 60,0:11:20.44,0:11:21.56,Default,,0,0,0,,Raça.
 Dialogue: 60,0:11:22.43,0:11:23.33,Default,,0,0,0,,Morte.
 Dialogue: 60,0:11:24.45,0:11:25.96,Default,,0,0,0,,Doença.
@@ -205,7 +206,7 @@ Dialogue: 60,0:13:47.39,0:13:50.35,Default,,0,0,0,,Ei, é perigoso me tocar,\N e
 Dialogue: 60,0:13:50.35,0:13:53.60,Default,,0,0,0,,São ordens do mestre Shen, pode ficar tranquila.
 Dialogue: 60,0:13:54.03,0:13:57.78,Default,,0,0,0,,Eu sou uma subordinada do mestre Shen, Mui.
 Dialogue: 60,0:13:57.78,0:14:01.18,Default,,0,0,0,,Ah... meu nome é Izumo Fuuko.
-Dialogue: 60,0:14:01.18,0:14:02.70,Default,,0,0,0,,Já estou informada.
+Dialogue: 60,0:14:01.18,0:14:02.70,Default,,0,0,0,,Já fui informada.
 Dialogue: 60,0:14:02.70,0:14:04.86,Default,,0,0,0,,Os preparativos para sua quest estão concluídos.
 Dialogue: 60,0:14:04.86,0:14:08.70,Default,,0,0,0,,A partir de agora, você é uma integrante oficial da Távola Redonda, Srta. Fuuko.
 Dialogue: 60,0:14:09.10,0:14:11.41,Default,,0,0,0,,Desejo o melhor na sua quest.
@@ -277,7 +278,7 @@ Dialogue: 60,0:17:20.89,0:17:22.38,Default,,0,0,0,,Parece ter doído.
 Dialogue: 60,0:17:22.38,0:17:25.27,Default,,0,0,0,,Não o matei. Só dei um apagão nele.
 Dialogue: 60,0:17:25.27,0:17:27.03,Default,,0,0,0,,Ah, isso não é bom.
 Dialogue: 60,0:17:27.03,0:17:27.90,Default,,0,0,0,,Hein?
-Dialogue: 60,0:17:27.90,0:17:32.35,Default,,0,0,0,,Quando o corpo que o 1129 está possuindo perda a capacidade de se mover,
+Dialogue: 60,0:17:27.90,0:17:32.35,Default,,0,0,0,,Quando o corpo que o 1129 está possuindo perde a capacidade de se mover,
 Dialogue: 60,0:17:32.35,0:17:34.28,Default,,0,0,0,,ele buscará um novo...
 Dialogue: 60,0:17:37.30,0:17:40.58,Default,,0,0,0,,e irá se transferir para a pessoa mais próxima.
 Dialogue: 60,0:17:40.58,0:17:42.46,Default,,0,0,0,,Não era pra ele virar a vestimenta que ela mais deseja?
@@ -303,7 +304,7 @@ Dialogue: 60,0:18:53.23,0:18:55.20,Default,,0,0,0,,{\fscx60\fscy60\bord2.16\shad
 Dialogue: 60,0:18:55.20,0:18:56.24,Default,,0,0,0,,Ela desmaiou!
 Dialogue: 60,0:19:00.03,0:19:01.37,Default,,0,0,0,,Ele vai se mover de novo.
 Dialogue: 60,0:19:02.91,0:19:07.83,Default,,0,0,0,,{\i1}Eu sabia que eu seria a próxima. Ele prefere atacar mulheres.
-Dialogue: 60,0:19:14.17,0:19:18.88,Default,,0,0,0,,Droga, você se aproveitou da preferência dele por mulheres, né?
+Dialogue: 60,0:19:14.17,0:19:18.88,Default,,0,0,0,,Droga, você se aproveitou da regra de preferência dele por mulheres, né?
 Dialogue: 60,0:19:18.88,0:19:23.35,Default,,0,0,0,,Sim, mas eu sabia que podia esperar que me salvasse, Andy.
 Dialogue: 60,0:19:23.63,0:19:27.46,Default,,0,0,0,,{\an8}E se ele tivesse tomado meu corpo, seria mais fácil lutar comigo do que a Mui, né?
 Dialogue: 60,0:19:27.46,0:19:29.90,Default,,0,0,0,,{\an8}Você pretendia liberar seu corpo azarado?
@@ -1455,10 +1456,3 @@ Dialogue: 0,0:01:20.17,0:01:22.21,2$Abertura,,0,0,0,,{\c&H3D3937&\blur7\bord3\3c
 Dialogue: 0,0:01:22.21,0:01:22.71,2$Abertura,,0,0,0,,{\c&H3D3937&\blur7\bord3\3c&HFBF9F9&}Abrace então essa liberdade incompreensível e cante hoje!
 Dialogue: 0,0:01:22.71,0:01:22.75,2$Abertura,,0,0,0,,{\c&HC2C6C8&\blur7\bord3\3c&H040606&}Abrace então essa liberdade incompreensível e cante hoje!
 Dialogue: 0,0:01:22.84,0:01:29.05,2$Abertura,,0,0,0,,{\c&HC2C6C8&\blur7\bord3\3c&H040606&\t(30,607,\3c&HFBF9F9&\c&H3D3937&)}Abrace então essa liberdade incompreensível e cante hoje!
-
-[Aegisub Extradata]
-Data: 0,a-mo,e{"uuid"#3A"d1d6d7c6-a966-48de-9266-05f252daca29"#2C"originalText"#3A"{\\fnImpact\\bord0\\fs280\\fscy141\\fsp12\\blur1\\c&HFEFEFE&\\pos(960#2C240)\\4a&HFF&}JUIZ"}
-Data: 1,a-mo,e{"uuid"#3A"1060135d-a906-4926-ae4f-2d1c3469b7ac"#2C"originalText"#3A"{\\fnImpact\\bord3\\fs280\\fscy141\\fsp12\\blur1\\3c&H2B464B&\\c&H2B464B&\\pos(960#2C240)}JUIZ"}
-Data: 2,a-mo,e{"uuid"#3A"5623c27b-2375-4186-a6ae-0575f55b2e29"#2C"originalText"#3A"{\\fnImpact\\bord3\\fs280\\fscy141\\fsp12\\blur12\\alpha&HA0&\\3c&HFFFFFF&\\c&HFFFFFF&\\pos(960#2C240)}JUIZ"}
-Data: 3,myaa.MergeScripts,e[{"extrakeys"#3A{}#2C"file"#3A"Undead Unluck - ED 05.ass"#2C"aegisub_garbage"#3A[{"class"#3A"info"#2C"value"#3A"Default"#2C"key"#3A"Last Style Storage"}#2C{"class"#3A"info"#2C"value"#3A"..\/..\/Encodes\/Undead05.mkv"#2C"key"#3A"Audio File"}#2C{"class"#3A"info"#2C"value"#3A"..\/..\/Encodes\/Undead05.mkv"#2C"key"#3A"Video File"}#2C{"class"#3A"info"#2C"value"#3A"4"#2C"key"#3A"Video AR Mode"}#2C{"class"#3A"info"#2C"value"#3A"1.777778"#2C"key"#3A"Video AR Value"}#2C{"class"#3A"info"#2C"value"#3A"0.500000"#2C"key"#3A"Video Zoom Percent"}#2C{"class"#3A"info"#2C"value"#3A"24"#2C"key"#3A"Scroll Position"}#2C{"class"#3A"info"#2C"value"#3A"30"#2C"key"#3A"Active Line"}#2C{"class"#3A"info"#2C"value"#3A"32853"#2C"key"#3A"Video Position"}]#2C"prefix"#3A1#2C"script_info"#3A[{"class"#3A"info"#2C"value"#3A"Default Aegisub file"#2C"key"#3A"Title"}#2C{"class"#3A"info"#2C"value"#3A"v4.00+"#2C"key"#3A"ScriptType"}#2C{"class"#3A"info"#2C"value"#3A"0"#2C"key"#3A"WrapStyle"}#2C{"class"#3A"info"#2C"value"#3A"yes"#2C"key"#3A"ScaledBorderAndShadow"}#2C{"class"#3A"info"#2C"value"#3A"TV.709"#2C"key"#3A"YCbCr Matrix"}#2C{"class"#3A"info"#2C"value"#3A"1920"#2C"key"#3A"PlayResX"}#2C{"class"#3A"info"#2C"value"#3A"1080"#2C"key"#3A"PlayResY"}]}]
-Data: 4,myaa.MergeScripts,e[{"extrakeys"#3A{}#2C"file"#3A"Undead Unluck - OP 05.ass"#2C"aegisub_garbage"#3A[{"class"#3A"info"#2C"value"#3A"Default"#2C"key"#3A"Last Style Storage"}#2C{"class"#3A"info"#2C"value"#3A"..\/..\/Raws\/[Kirinashi] Undead Unluck - 04v2.mkv"#2C"key"#3A"Audio File"}#2C{"class"#3A"info"#2C"value"#3A"..\/..\/Raws\/[Kirinashi] Undead Unluck - 04v2.mkv"#2C"key"#3A"Video File"}#2C{"class"#3A"info"#2C"value"#3A"4"#2C"key"#3A"Video AR Mode"}#2C{"class"#3A"info"#2C"value"#3A"1.777778"#2C"key"#3A"Video AR Value"}#2C{"class"#3A"info"#2C"value"#3A"0.500000"#2C"key"#3A"Video Zoom Percent"}#2C{"class"#3A"info"#2C"value"#3A"2"#2C"key"#3A"Scroll Position"}#2C{"class"#3A"info"#2C"value"#3A"19"#2C"key"#3A"Active Line"}#2C{"class"#3A"info"#2C"value"#3A"1652"#2C"key"#3A"Video Position"}]#2C"prefix"#3A2#2C"script_info"#3A[{"class"#3A"info"#2C"value"#3A"Default Aegisub file"#2C"key"#3A"Title"}#2C{"class"#3A"info"#2C"value"#3A"v4.00+"#2C"key"#3A"ScriptType"}#2C{"class"#3A"info"#2C"value"#3A"0"#2C"key"#3A"WrapStyle"}#2C{"class"#3A"info"#2C"value"#3A"yes"#2C"key"#3A"ScaledBorderAndShadow"}#2C{"class"#3A"info"#2C"value"#3A"TV.709"#2C"key"#3A"YCbCr Matrix"}#2C{"class"#3A"info"#2C"value"#3A"1920"#2C"key"#3A"PlayResX"}#2C{"class"#3A"info"#2C"value"#3A"1080"#2C"key"#3A"PlayResY"}]}]
