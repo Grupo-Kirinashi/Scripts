@@ -122,7 +122,7 @@ Dialogue: 0,0:09:40.10,0:09:44.46,Default,,0,0,0,,Mas as organizações que regu
 Dialogue: 0,0:09:44.46,0:09:47.40,Default,,0,0,0,,Não adianta perder tempo tirando certificado toda hora.
 Dialogue: 0,0:09:47.96,0:09:51.28,Default,,0,0,0,,Aposto que este emblema sagrado nem é mais usado.
 Dialogue: 0,0:09:52.81,0:09:55.54,Default,,0,0,0,,O que é essa velharia?
-Dialogue: 0,0:09:55.54,0:09:59.06,Default,,0,0,0,,Até eu conheço a Associação Magia Continental.
+Dialogue: 0,0:09:55.54,0:09:59.06,Default,,0,0,0,,Até eu conheço a Associação Mágica Continental.
 Dialogue: 0,0:09:59.06,0:10:01.98,Default,,0,0,0,,Já existe há pelo menos meio século.
 Dialogue: 0,0:10:01.98,0:10:03.79,Default,,0,0,0,,Isso foi ontem.
 Dialogue: 0,0:10:04.38,0:10:09.14,Default,,0,0,0,,É complicado quando mudam os\N padrões de conduta o tempo todo.
@@ -131,7 +131,7 @@ Dialogue: 0,0:10:13.63,0:10:15.92,Default,,0,0,0,,Não sei muito sobre isso,
 Dialogue: 0,0:10:15.92,0:10:20.64,Default,,0,0,0,,mas acredito que na região norte há um local para tirar o certificado, certo?
 Dialogue: 0,0:10:21.56,0:10:26.81,Default,,0,0,0,,A maior cidade mágica da região norte: Äußerst.
 Dialogue: 0,0:10:27.76,0:10:30.96,Default,,0,0,0,,Para além da Cordilheira Schwer.
-Dialogue: 0,0:10:30.96,0:10:35.30,Default,,0,0,0,,Pode ir pela rodovia, mas será um logo percurso.
+Dialogue: 0,0:10:30.96,0:10:35.30,Default,,0,0,0,,Pode ir pela rodovia, mas será um longo percurso.
 Dialogue: 0,0:10:38.96,0:10:43.46,Default,,0,0,0,,Frieren, a família Granat jamais esquecerá o que fez por nós.
 Dialogue: 0,0:10:46.27,0:10:47.54,Default,,0,0,0,,Tenham uma boa viagem.
 Dialogue: 0,0:11:01.13,0:11:02.75,Default,,0,0,0,,Começou a nevar.
@@ -218,7 +218,7 @@ Dialogue: 0,0:16:09.32,0:16:11.38,Default,,0,0,0,,Nunca ouvi falar.
 Dialogue: 0,0:16:12.19,0:16:15.25,Default,,0,0,0,,Mas deve ser um monge bem famoso, certo?
 Dialogue: 0,0:16:17.34,0:16:20.00,Default,,0,0,0,,Stark, fique descansando aqui.
 Dialogue: 0,0:16:20.60,0:16:23.41,Default,,0,0,0,,Vocês duas podem me ajudar \Na carregar os suprimentos.
-Dialogue: 0,0:16:23.92,0:16:26.82,Default,,0,0,0,,Minha carroça e carga está aqui perto.
+Dialogue: 0,0:16:23.92,0:16:26.82,Default,,0,0,0,,Minha carroça e carga estão aqui perto.
 Dialogue: 0,0:16:29.67,0:16:32.01,Default,,0,0,0,,Estou muito feliz por ter encontrado vocês.
 Dialogue: 0,0:16:32.36,0:16:35.85,Default,,0,0,0,,Podemos usar esses suprimentos congelados. {se ele tivesse carvão, estaria aí no meio... e ele poderia ter usado como alguém perde carvão?}
 Dialogue: 0,0:16:35.85,0:16:37.39,Default,,0,0,0,,Fiquem à vontade.
@@ -308,12 +308,12 @@ Dialogue: 1,0:01:07.30,0:01:10.02,Signs,,0,0,0,,{\fnMasqualero Pro Stencil\b0\c&
 Dialogue: 1,0:01:07.30,0:01:10.02,Signs,,0,0,0,,{\fnMasqualero Pro Stencil\b0\c&HFF00FF&\fs92\fscy98\blur1.1\fsp16.5\1a&HC1&\fad(0,1550)\pos(962.79,748)}A FUNERÁRIA
 Dialogue: 0,0:01:07.30,0:01:10.02,Signs,,0,0,0,,{\fnMasqualero Pro Stencil\b0\1a&HFE&\3a&HFE&\shad0.01\bord5\4c&HFFFFFF&\fs92\blur5\fsp16.5\fad(0,1550)\4a&HEE&\pos(962.09,748)}A FUNERÁRIA
 Dialogue: 0,0:11:39.97,0:11:42.97,Signs,,0,0,0,,{\an7\pos(0,0)\c&H000000&\p1\b0}m -2 -2 l 1922 -2 1922 1082 -2 1082
-Dialogue: 3,0:11:39.97,0:11:42.97,Signs,,0,0,0,,{\fnHiroshige\an6\fs55\blur0.7\c&HF8F8F8&\pos(1682,900)\b0}Episode 11: Inverno da Região Norte
-Dialogue: 2,0:11:39.97,0:11:42.97,Signs,,0,0,0,,{\fnHiroshige\an6\fs55\blur0.7\c&HFF4000&\1a&H62&\pos(1682,899.5)\b0}Episode 11: Inverno da Região Norte
-Dialogue: 2,0:11:39.97,0:11:42.97,Signs,,0,0,0,,{\fnHiroshige\an6\fs55\blur0.7\c&H00FF08&\1a&H62&\pos(1680.8,900)\b0}Episode 11: Inverno da Região Norte
-Dialogue: 2,0:11:39.97,0:11:42.97,Signs,,0,0,0,,{\fnHiroshige\an6\fs55\blur0.7\c&HFF00E6&\1a&H62&\pos(1682.5,900)\b0}Episode 11: Inverno da Região Norte
-Dialogue: 2,0:11:39.97,0:11:42.97,Signs,,0,0,0,,{\fnHiroshige\an6\fs55\blur0.7\c&H0000FF&\1a&H62&\pos(1682,900.5)\b0}Episode 11: Inverno da Região Norte
-Dialogue: 1,0:11:39.97,0:11:42.97,Signs,,0,0,0,,{\fnHiroshige\an6\fs55\blur5\4c&HFFFFFF&\1a&HFE&\3a&HFE&\shad0.01\bord3\4a&HD7&\pos(1682,900.03)\b0}Episode 11: Inverno da Região Norte
+Dialogue: 3,0:11:39.97,0:11:42.97,Signs,,0,0,0,,{\fnHiroshige\an6\fs55\blur0.7\c&HF8F8F8&\pos(1682,900)\b0}Episódio 11: Inverno da Região Norte
+Dialogue: 2,0:11:39.97,0:11:42.97,Signs,,0,0,0,,{\fnHiroshige\an6\fs55\blur0.7\c&HFF4000&\1a&H62&\pos(1682,899.5)\b0}Episódio 11: Inverno da Região Norte
+Dialogue: 2,0:11:39.97,0:11:42.97,Signs,,0,0,0,,{\fnHiroshige\an6\fs55\blur0.7\c&H00FF08&\1a&H62&\pos(1680.8,900)\b0}Episódio 11: Inverno da Região Norte
+Dialogue: 2,0:11:39.97,0:11:42.97,Signs,,0,0,0,,{\fnHiroshige\an6\fs55\blur0.7\c&HFF00E6&\1a&H62&\pos(1682.5,900)\b0}Episódio 11: Inverno da Região Norte
+Dialogue: 2,0:11:39.97,0:11:42.97,Signs,,0,0,0,,{\fnHiroshige\an6\fs55\blur0.7\c&H0000FF&\1a&H62&\pos(1682,900.5)\b0}Episódio 11: Inverno da Região Norte
+Dialogue: 1,0:11:39.97,0:11:42.97,Signs,,0,0,0,,{\fnHiroshige\an6\fs55\blur5\4c&HFFFFFF&\1a&HFE&\3a&HFE&\shad0.01\bord3\4a&HD7&\pos(1682,900.03)\b0}Episódio 11: Inverno da Região Norte
 Dialogue: 2,0:11:47.48,0:11:52.98,Signs,,0,0,0,,{\an6\fnHiroshige\fs40\pos(1527,142)\blur0.7\c&HFFFFFF&\b0}28 anos da morte
 Dialogue: 1,0:11:47.48,0:11:52.98,Signs,,0,0,0,,{\an6\fnHiroshige\fs40\pos(1527,141)\blur0.7\c&HFFF360&\1a&HDE&\b0}28 anos da morte
 Dialogue: 1,0:11:47.48,0:11:52.98,Signs,,0,0,0,,{\an6\fnHiroshige\fs40\pos(1527,143)\blur0.7\c&HD4C6FF&\1a&H77&\b0}28 anos da morte
