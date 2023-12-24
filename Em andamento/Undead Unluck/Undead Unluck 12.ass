@@ -79,8 +79,8 @@ Dialogue: 0,0:03:27.90,0:03:29.94,Default,,0,0,0,,A Union...
 Dialogue: 0,0:03:29.94,0:03:32.69,Default,,0,0,0,,Não vamos entregar o Negador para eles!
 Dialogue: 0,0:05:13.08,0:05:15.38,Default,,0,0,0,,Para onde estamos indo, Andy?
 Dialogue: 0,0:05:15.70,0:05:18.09,Default,,0,0,0,,Os itens do leilão são mantidos no porão!
-Dialogue: 0,0:05:20.46,0:05:25.47,Default,,0,0,0,,Eles invadiram a festa antes do leilão começar, então devem esta indo pra lá.
-Dialogue: 0,0:05:26.12,0:05:29.68,Default,,0,0,0,,Vamos encontrar o Negador antes dele e o ajudaremos!
+Dialogue: 0,0:05:20.46,0:05:25.47,Default,,0,0,0,,Eles invadiram a festa antes do leilão começar, então devem estar indo pra lá.
+Dialogue: 0,0:05:26.12,0:05:29.68,Default,,0,0,0,,Vamos encontrar o Negador antes deles e o ajudaremos!
 Dialogue: 0,0:05:29.68,0:05:32.86,Default,,0,0,0,,No pior caso, vamos lutar. Fique pronta!
 Dialogue: 0,0:05:32.86,0:05:33.90,Default,,0,0,0,,Tá!
 Dialogue: 0,0:05:50.87,0:05:51.83,Default,,0,0,0,,Dinamite?
@@ -111,8 +111,8 @@ Dialogue: 0,0:07:41.80,0:07:43.94,Default,,0,0,0,,{\fscx60\fscy60\bord2.16\shad0
 Dialogue: 0,0:07:44.24,0:07:45.48,Default,,0,0,0,,Quê?
 Dialogue: 0,0:07:52.19,0:07:54.34,Default,,0,0,0,,{\fscx60\fscy60\bord2.16\shad0.9\an8}(O que está acontecendo?)\N{\r}What's going on?
 Dialogue: 0,0:07:51.68,0:07:54.34,Default,,0,0,0,,{\fscx60\fscy60\bord2.16\shad0.9}(Capturamos um Negador. Habilidade desconhecida.)\N{\r}Secured one Negator. Ability unknown.
-Dialogue: 0,0:07:54.34,0:07:56.23,Default,,0,0,0,,{\i1}{\fscx60\fscy60\bord2.16\shad0.9}(A Union chegará aí logo.)\N{\r}The Union will be there soon.
-Dialogue: 0,0:07:56.23,0:07:57.98,Default,,0,0,0,,{\fscx60\fscy60\bord2.16\shad0.9}(Sumam daí rápido.)\N{\r}Hurry and get out of there.
+Dialogue: 0,0:07:54.34,0:07:56.23,Default,,0,0,0,,{\i1}{\fscx60\fscy60\bord2.16\shad0.9}(A Union chegará aí logo.)\N{\r\i1}The Union will be there soon.
+Dialogue: 0,0:07:56.23,0:07:57.98,Default,,0,0,0,,{\i1\fscx60\fscy60\bord2.16\shad0.9}(Sumam daí rápido.)\N{\r\i1}Hurry and get out of there.
 Dialogue: 0,0:07:57.98,0:07:59.04,Default,,0,0,0,,{\fscx60\fscy60\bord2.16\shad0.9}(Entendido.)\N{\r}Copy that.
 Dialogue: 0,0:08:04.63,0:08:08.18,Default,,0,0,0,,{\i1}E quando percebi, estava aqui! Encarcerado como um animal!
 Dialogue: 0,0:08:08.18,0:08:11.50,Default,,0,0,0,,{\i1}Agora tem um mafioso com uma arma apontada pra mim,
@@ -168,7 +168,7 @@ Dialogue: 0,0:11:14.10,0:11:15.78,Default,,0,0,0,,{\i1}Entendido. Estou partindo
 Dialogue: 0,0:11:15.78,0:11:17.99,Default,,0,0,0,,O quê? Consigo entender...
 Dialogue: 0,0:11:18.32,0:11:19.53,Default,,0,0,0,,Agora...
 Dialogue: 0,0:11:19.99,0:11:22.79,Default,,0,0,0,,{\i1}O primeiro tem uma metralhadora.
-Dialogue: 0,0:11:22.79,0:11:26.21,Default,,0,0,0,,{\i1}Não estou vendo cinta de munição,\N então como ele está atirando?
+Dialogue: 0,0:11:22.79,0:11:26.21,Default,,0,0,0,,{\i1}Não estou vendo uma cinta de munição,\N então como ele está atirando?
 Dialogue: 0,0:11:26.21,0:11:30.17,Default,,0,0,0,,{\i1}O segundo é um artista marcial. Dá pra ver que ele é forte.
 Dialogue: 0,0:11:30.17,0:11:33.12,Default,,0,0,0,,{\i1}A terceira é... suporte?
 Dialogue: 0,0:11:33.12,0:11:36.47,Default,,0,0,0,,{\i1}Não está carregando nada.\N Pode ter uma habilidade de contra-ataque.
@@ -263,7 +263,7 @@ Dialogue: 0,0:17:31.11,0:17:33.53,Default,,0,0,0,,Voltando ao assunto...
 Dialogue: 0,0:17:30.62,0:17:33.53,Default,,0,0,0,,{\an8}Sabe quanto tempo passei nisso?
 Dialogue: 0,0:17:33.97,0:17:37.33,Default,,0,0,0,,É hora de morrer, frangote.
 Dialogue: 0,0:17:40.21,0:17:43.17,Default,,0,0,0,,Espero que o sucessor seja uma dádiva.
-Dialogue: 0,0:17:48.39,0:17:51.47,Default,,0,0,0,,{\i1}Droga! Não conseguir parar o impulso com minha regeneração!
+Dialogue: 0,0:17:48.39,0:17:51.47,Default,,0,0,0,,{\i1}Droga! Não consegui parar o impulso com minha regeneração!
 Dialogue: 0,0:17:52.49,0:17:54.31,Default,,0,0,0,,Afaste-se, Fuuko!
 Dialogue: 0,0:17:58.53,0:17:59.56,Default,,0,0,0,,O quê?
 Dialogue: 0,0:18:02.37,0:18:03.76,Default,,0,0,0,,Fuuko!
