@@ -14,6 +14,7 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: Default,Fontin Sans Rg,75,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,3.6,1.5,2,225,225,60,1
 Style: Tenebris-signs,Candara,188,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,50,50,38,1
 Style: 1$Abertura,Epikur BQ,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,150,150,50,1
+Style: 2$Encerramento,EideticModern,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,2,10,10,50,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -2112,39 +2113,80 @@ Comment: 0,0:23:11.08,0:23:14.26,Default,,0,0,0,,放さないで止めないで
 Comment: 0,0:23:14.26,0:23:19.42,Default,,0,0,0,,独りじゃないの
 Comment: 0,0:23:19.42,0:23:22.42,Default,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,import,{=149}Undead Unluck - OP 02.ass
-Dialogue: 0,0:04:34.10,0:04:36.50,1$Abertura,,0,0,0,,{\c&H3D3937&\blur7\bord3\3c&HFBF9F9&\t(2250,0,1,\alpha&HFF&)}Decidi que essa seria a última vez
-Dialogue: 0,0:04:36.50,0:04:39.38,1$Abertura,,0,0,0,,{\fad(150,0)\c&H3D3937&\blur7\bord3\3c&HFBF9F9&}Me perguntaram "E se você morrer?"
-Dialogue: 0,0:04:39.38,0:04:41.73,1$Abertura,,0,0,0,,{\fad(0,150)\c&H3D3937&\blur7\bord3\3c&HFBF9F9&}Nessa hora a faca apareceu
-Dialogue: 0,0:04:41.73,0:04:45.01,1$Abertura,,0,0,0,,{\c&H3D3937&\blur7\bord3\3c&HFBF9F9&}E meu desgosto surgiu mais rápido que as lágrimas.
-Comment: 0,0:04:44.76,0:04:45.01,1$Abertura,,0,0,0,,{\c&H3D3937&\blur7\bord3\3c&HFBF9F9&} Não fará sentido se desaparecer aqui.
-Dialogue: 0,0:04:45.01,0:04:47.52,1$Abertura,,0,0,0,,{\c&HFBF9F9&\blur7\bord3\3c&H8436F1&} Não fará sentido se desaparecer aqui.
-Dialogue: 0,0:04:47.52,0:04:48.60,1$Abertura,,0,0,0,,{\c&HFBF9F9&\blur7\bord3\3c&H209694&}Uma valsa de sangue endurecido como vela.
-Dialogue: 0,0:04:48.60,0:04:50.10,1$Abertura,,0,0,0,,{\c&HFBF9F9&\blur7\bord3\3c&H779623&}Uma valsa de sangue endurecido como vela.
-Dialogue: 0,0:04:50.10,0:04:53.64,1$Abertura,,0,0,0,,{\fad(0,150)\c&H3D3937&\blur7\bord3\3c&HFBF9F9&}Existem tantas mãos desconectadas.
-Dialogue: 0,0:04:53.64,0:04:56.59,1$Abertura,,0,0,0,,{\fad(150,150)\c&H3D3937&\blur7\bord3\3c&HFBF9F9&}Ei, e se você morrer?
-Dialogue: 0,0:05:06.08,0:05:08.33,1$Abertura,,0,0,0,,{\c&H4E3CBB&\blur7\bord3\3c&HCBC0CC&}Para quem é esse ressentimento?
-Dialogue: 0,0:05:08.33,0:05:11.46,1$Abertura,,0,0,0,,{\c&H000101&\blur7\bord3\3c&H62ABA3&}As estações passam rápido como flechas.
-Dialogue: 0,0:05:11.46,0:05:13.67,1$Abertura,,0,0,0,,{\c&H3D3937&\blur7\bord3\3c&HFBF9F9&}Se for capaz de suportar e se recuperar,
-Dialogue: 0,0:05:13.67,0:05:16.80,1$Abertura,,0,0,0,,{\c&H3D3937&\blur7\bord3\3c&HFBF9F9&}pode ser que consiga esquecer tudo se perdoar.
-Dialogue: 0,0:05:16.80,0:05:19.38,1$Abertura,,0,0,0,,{\c&H3D3937&\blur7\bord3\3c&HFBF9F9&}No caminho para o seu destino sua gentileza foi danificada.
-Dialogue: 0,0:05:19.38,0:05:22.01,1$Abertura,,0,0,0,,{\c&H3D3937&\blur7\bord3\3c&HFBF9F9&}Refletindo sobre o passado com tristeza no olhar.
-Dialogue: 0,0:05:22.01,0:05:25.43,1$Abertura,,0,0,0,,{\c&H3D3937&\blur7\bord3\3c&HFBF9F9&}Repleto de obrigados e desculpas.
-Dialogue: 0,0:05:25.43,0:05:27.89,1$Abertura,,0,0,0,,{\c&H3D3937&\blur7\bord3\3c&HFBF9F9&}Eu dei o passo 01
-Dialogue: 0,0:05:27.93,0:05:29.85,1$Abertura,,0,0,0,,{\c&H3D3937&\blur7\bord3\3c&HFBF9F9&}Todas as vezes eu espero pelo melhor dos futuros
-Dialogue: 0,0:05:29.85,0:05:30.10,1$Abertura,,0,0,0,,{\c&HFBF9F9&\blur7\bord3\3c&H3D3937&}Todas as vezes eu espero pelo melhor dos futuros
-Dialogue: 0,0:05:30.18,0:05:30.35,1$Abertura,,0,0,0,,{\c&HFBF9F9&\blur7\bord3\3c&H3D3937&}Todas as vezes eu espero pelo melhor dos futuros
-Dialogue: 0,0:05:30.35,0:05:32.81,1$Abertura,,0,0,0,,{\c&H3D3937&\blur7\bord3\3c&HFBF9F9&}Todas as vezes eu espero pelo melhor dos futuros
-Dialogue: 0,0:05:32.81,0:05:35.27,1$Abertura,,0,0,0,,{\c&H3D3937&\blur7\bord3\3c&HFBF9F9&}Se puder viver resistindo à tristeza, \Nbuscarei minha liberdade.
-Dialogue: 0,0:05:35.27,0:05:35.52,1$Abertura,,0,0,0,,{\c&H271E25&\blur7\bord3\3c&HCECECE&}Se puder viver resistindo à tristeza, \Nbuscarei minha liberdade.
-Dialogue: 0,0:05:35.61,0:05:35.98,1$Abertura,,0,0,0,,{\c&H271E25&\blur7\bord3\3c&HCECECE&}Se puder viver resistindo à tristeza, \Nbuscarei minha liberdade.
-Dialogue: 0,0:05:35.98,0:05:37.48,1$Abertura,,0,0,0,,{\c&H3D3937&\blur7\bord3\3c&HFBF9F9&}Se puder viver resistindo à tristeza, \Nbuscarei minha liberdade.
-Dialogue: 0,0:05:37.48,0:05:40.57,1$Abertura,,0,0,0,,{\c&H3D3937&\blur7\bord3\3c&HFBF9F9&}A criação vermelha tumultua, será que nós estamos loucos?{Cara, confesso que estou confuso nessa frase aqui. Principalmente com 逆巻き que é tipo um corpo d'água indo contra a corrente... não sei interpretar isso.}
-Dialogue: 0,0:05:40.57,0:05:40.78,1$Abertura,,0,0,0,,{\c&HC1BCCC&\blur7\bord3\3c&H1E1B39&}A criação vermelha tumultua, será que nós estamos loucos?{Cara, confesso que estou confuso nessa frase aqui. Principalmente com 逆巻き que é tipo um corpo d'água indo contra a corrente... não sei interpretar isso.}
-Dialogue: 0,0:05:40.86,0:05:41.07,1$Abertura,,0,0,0,,{\c&HC1BCCC&\blur7\bord3\3c&H1E1B39&}A criação vermelha tumultua, será que nós estamos loucos?{Cara, confesso que estou confuso nessa frase aqui. Principalmente com 逆巻き que é tipo um corpo d'água indo contra a corrente... não sei interpretar isso.}
-Dialogue: 0,0:05:41.15,0:05:43.20,1$Abertura,,0,0,0,,{\c&H3D3937&\blur7\bord3\3c&HFBF9F9&}A criação vermelha tumultua, será que nós estamos loucos?{Cara, confesso que estou confuso nessa frase aqui. Principalmente com 逆巻き que é tipo um corpo d'água indo contra a corrente... não sei interpretar isso.}
-Dialogue: 0,0:05:43.20,0:05:43.70,1$Abertura,,0,0,0,,{\c&H3D3937&\blur7\bord3\3c&HFBF9F9&}Abrace então essa liberdade incompreensível e cante hoje!
-Dialogue: 0,0:05:43.70,0:05:43.82,1$Abertura,,0,0,0,,{\c&HFBF9F9&\blur7\bord3\3c&H3D3937&}Abrace então essa liberdade incompreensível e cante hoje!
-Dialogue: 0,0:05:43.82,0:05:50.05,1$Abertura,,0,0,0,,{\fad(0,150)\c&H3D3937&\blur7\bord3\3c&HFBF9F9&}Abrace então essa liberdade incompreensível e cante hoje!
+Comment: 0,0:04:20.99,0:04:21.03,Abertura,,0,0,0,,OP
+Dialogue: 0,0:04:34.09,0:04:36.51,Abertura,,0,0,0,,{\c&H3D3937&\blur7\bord3\3c&HFBF9F9&\t(2250,0,1,\alpha&HFF&)}Decidi que essa seria a última vez
+Dialogue: 0,0:04:36.51,0:04:39.38,Abertura,,0,0,0,,{\fad(150,0)\c&H3D3937&\blur7\bord3\3c&HFBF9F9&}Me perguntaram "E se você morrer?"
+Dialogue: 0,0:04:39.38,0:04:41.72,Abertura,,0,0,0,,{\fad(0,150)\c&H3D3937&\blur7\bord3\3c&HFBF9F9&}Nessa hora a faca apareceu
+Dialogue: 0,0:04:41.72,0:04:45.01,Abertura,,0,0,0,,{\c&H3D3937&\blur7\bord3\3c&HFBF9F9&}E meu desgosto surgiu mais rápido que as lágrimas.
+Comment: 0,0:04:44.76,0:04:45.01,Abertura,,0,0,0,,{\c&H3D3937&\blur7\bord3\3c&HFBF9F9&} Não fará sentido se desaparecer aqui.
+Dialogue: 0,0:04:45.01,0:04:47.52,Abertura,,0,0,0,,{\c&HFBF9F9&\blur7\bord3\3c&H8436F1&} Não fará sentido se desaparecer aqui.
+Dialogue: 0,0:04:47.52,0:04:48.60,Abertura,,0,0,0,,{\c&HFBF9F9&\blur7\bord3\3c&H209694&}Uma valsa de sangue endurecido como vela.
+Dialogue: 0,0:04:48.60,0:04:50.10,Abertura,,0,0,0,,{\c&HFBF9F9&\blur7\bord3\3c&H779623&}Uma valsa de sangue endurecido como vela.
+Dialogue: 0,0:04:50.10,0:04:53.65,Abertura,,0,0,0,,{\fad(0,150)\c&H3D3937&\blur7\bord3\3c&HFBF9F9&}Existem tantas mãos desconectadas.
+Dialogue: 0,0:04:53.65,0:04:56.61,Abertura,,0,0,0,,{\fad(150,150)\c&H3D3937&\blur7\bord3\3c&HFBF9F9&}Ei, e se você morrer?
+Dialogue: 0,0:05:06.08,0:05:08.33,Abertura,,0,0,0,,{\c&H4E3CBB&\blur7\bord3\3c&HCBC0CC&}Para quem é esse ressentimento?
+Dialogue: 0,0:05:08.33,0:05:11.46,Abertura,,0,0,0,,{\c&H000101&\blur7\bord3\3c&H62ABA3&}As estações passam rápido como flechas.
+Dialogue: 0,0:05:11.46,0:05:13.67,Abertura,,0,0,0,,{\c&H3D3937&\blur7\bord3\3c&HFBF9F9&}Se for capaz de suportar e se recuperar,
+Dialogue: 0,0:05:13.67,0:05:16.80,Abertura,,0,0,0,,{\c&H3D3937&\blur7\bord3\3c&HFBF9F9&}pode ser que consiga esquecer tudo se perdoar.
+Dialogue: 0,0:05:16.80,0:05:19.38,Abertura,,0,0,0,,{\c&H3D3937&\blur7\bord3\3c&HFBF9F9&}No caminho para o seu destino sua gentileza foi danificada.
+Dialogue: 0,0:05:19.38,0:05:22.01,Abertura,,0,0,0,,{\c&H3D3937&\blur7\bord3\3c&HFBF9F9&}Refletindo sobre o passado com tristeza no olhar.
+Dialogue: 0,0:05:22.01,0:05:25.43,Abertura,,0,0,0,,{\c&H3D3937&\blur7\bord3\3c&HFBF9F9&}Repleto de obrigados e desculpas.
+Dialogue: 0,0:05:25.43,0:05:27.89,Abertura,,0,0,0,,{\c&H3D3937&\blur7\bord3\3c&HFBF9F9&}Eu dei o passo 01
+Dialogue: 0,0:05:27.93,0:05:29.85,Abertura,,0,0,0,,{\c&H3D3937&\blur7\bord3\3c&HFBF9F9&}Todas as vezes eu espero pelo melhor dos futuros
+Dialogue: 0,0:05:29.85,0:05:30.10,Abertura,,0,0,0,,{\c&HFBF9F9&\blur7\bord3\3c&H3D3937&}Todas as vezes eu espero pelo melhor dos futuros
+Dialogue: 0,0:05:30.18,0:05:30.35,Abertura,,0,0,0,,{\c&HFBF9F9&\blur7\bord3\3c&H3D3937&}Todas as vezes eu espero pelo melhor dos futuros
+Dialogue: 0,0:05:30.35,0:05:32.81,Abertura,,0,0,0,,{\c&H3D3937&\blur7\bord3\3c&HFBF9F9&}Todas as vezes eu espero pelo melhor dos futuros
+Dialogue: 0,0:05:32.81,0:05:35.27,Abertura,,0,0,0,,{\c&H3D3937&\blur7\bord3\3c&HFBF9F9&}Se puder viver resistindo à tristeza, \Nbuscarei minha liberdade.
+Dialogue: 0,0:05:35.27,0:05:35.52,Abertura,,0,0,0,,{\c&H271E25&\blur7\bord3\3c&HCECECE&}Se puder viver resistindo à tristeza, \Nbuscarei minha liberdade.
+Dialogue: 0,0:05:35.61,0:05:35.98,Abertura,,0,0,0,,{\c&H271E25&\blur7\bord3\3c&HCECECE&}Se puder viver resistindo à tristeza, \Nbuscarei minha liberdade.
+Dialogue: 0,0:05:35.98,0:05:37.48,Abertura,,0,0,0,,{\c&H3D3937&\blur7\bord3\3c&HFBF9F9&}Se puder viver resistindo à tristeza, \Nbuscarei minha liberdade.
+Dialogue: 0,0:05:37.48,0:05:40.57,Abertura,,0,0,0,,{\c&H3D3937&\blur7\bord3\3c&HFBF9F9&}A criação vermelha tumultua, será que nós estamos loucos?{Cara, confesso que estou confuso nessa frase aqui. Principalmente com 逆巻き que é tipo um corpo d'água indo contra a corrente... não sei interpretar isso.}
+Dialogue: 0,0:05:40.57,0:05:40.78,Abertura,,0,0,0,,{\c&HC1BCCC&\blur7\bord3\3c&H1E1B39&}A criação vermelha tumultua, será que nós estamos loucos?{Cara, confesso que estou confuso nessa frase aqui. Principalmente com 逆巻き que é tipo um corpo d'água indo contra a corrente... não sei interpretar isso.}
+Dialogue: 0,0:05:40.86,0:05:41.07,Abertura,,0,0,0,,{\c&HC1BCCC&\blur7\bord3\3c&H1E1B39&}A criação vermelha tumultua, será que nós estamos loucos?{Cara, confesso que estou confuso nessa frase aqui. Principalmente com 逆巻き que é tipo um corpo d'água indo contra a corrente... não sei interpretar isso.}
+Dialogue: 0,0:05:41.15,0:05:43.20,Abertura,,0,0,0,,{\c&H3D3937&\blur7\bord3\3c&HFBF9F9&}A criação vermelha tumultua, será que nós estamos loucos?{Cara, confesso que estou confuso nessa frase aqui. Principalmente com 逆巻き que é tipo um corpo d'água indo contra a corrente... não sei interpretar isso.}
+Dialogue: 0,0:05:43.20,0:05:43.70,Abertura,,0,0,0,,{\c&H3D3937&\blur7\bord3\3c&HFBF9F9&}Abrace então essa liberdade incompreensível e cante hoje!
+Dialogue: 0,0:05:43.70,0:05:43.74,Abertura,,0,0,0,,{\c&HC2C6C8&\blur7\bord3\3c&H040606&}Abrace então essa liberdade incompreensível e cante hoje!
+Dialogue: 0,0:05:43.82,0:05:50.04,Abertura,,0,0,0,,{\c&HC2C6C8&\blur7\bord3\3c&H040606&\t(30,607,\3c&HFBF9F9&\c&H3D3937&)}Abrace então essa liberdade incompreensível e cante hoje!
+Comment: 0,0:22:10.93,0:22:10.98,2$Encerramento,,0,0,0,,ED - Ponte
+Comment: 0,0:22:16.82,0:22:21.11,2$Encerramento,,0,0,0,,同じように求めてしまうから
+Comment: 0,0:22:21.11,0:22:22.92,2$Encerramento,,0,0,0,,黙って居ればいい？
+Comment: 0,0:22:22.92,0:22:26.71,2$Encerramento,,0,0,0,,望むように逆さに歩いてく
+Comment: 0,0:22:27.41,0:22:30.29,2$Encerramento,,0,0,0,,息絶えたみたいだ
+Comment: 0,0:22:30.29,0:22:33.23,2$Encerramento,,0,0,0,,潜在的な憂いには
+Comment: 0,0:22:33.23,0:22:36.00,2$Encerramento,,0,0,0,,如何にも素直になれず
+Comment: 0,0:22:36.00,0:22:40.00,2$Encerramento,,0,0,0,,誰とも訳合えないね
+Comment: 0,0:22:40.62,0:22:42.01,2$Encerramento,,0,0,0,,自分さえも
+Comment: 0,0:22:42.01,0:22:44.86,2$Encerramento,,0,0,0,,命令 故意を感じて
+Comment: 0,0:22:44.86,0:22:47.85,2$Encerramento,,0,0,0,,訂正 無為を観じて
+Comment: 0,0:22:47.85,0:22:50.85,2$Encerramento,,0,0,0,,安寧は罪が混ざる
+Comment: 0,0:22:50.85,0:22:52.71,2$Encerramento,,0,0,0,,当然か
+Comment: 0,0:22:53.60,0:22:56.48,2$Encerramento,,0,0,0,,知った顔で笑っててよ
+Comment: 0,0:22:56.48,0:22:59.48,2$Encerramento,,0,0,0,,底知らず恐れるの
+Comment: 0,0:22:59.48,0:23:02.57,2$Encerramento,,0,0,0,,月並みの愛をくれよ
+Comment: 0,0:23:05.32,0:23:08.28,2$Encerramento,,0,0,0,,知った気で踊ってるの
+Comment: 0,0:23:08.28,0:23:11.08,2$Encerramento,,0,0,0,,底が満たされるの
+Comment: 0,0:23:11.08,0:23:14.26,2$Encerramento,,0,0,0,,放さないで止めないで
+Comment: 0,0:23:14.26,0:23:19.42,2$Encerramento,,0,0,0,,独りじゃないの
+Dialogue: 0,0:22:16.82,0:22:21.11,2$Encerramento,,0,0,0,,{\blur5\bord4\3c&H383D2E&}Já que queremos a mesma coisa,
+Dialogue: 0,0:22:21.11,0:22:22.92,2$Encerramento,,0,0,0,,{\blur5\bord4\3c&H383D2E&}deveria me calar?
+Dialogue: 0,0:22:22.92,0:22:26.71,2$Encerramento,,0,0,0,,{\blur5\bord4\3c&H383D2E&}Como deseja, eu andarei de ponta cabeça.
+Dialogue: 0,0:22:27.41,0:22:30.29,2$Encerramento,,0,0,0,,{\blur5\bord4\3c&H4E4F59&}Ele parece estar sem fôlego.
+Dialogue: 0,0:22:30.29,0:22:33.23,2$Encerramento,,0,0,0,,{\blur5\bord4\3c&HA49E93&}É quase impossível me abrir
+Dialogue: 0,0:22:33.23,0:22:36.00,2$Encerramento,,0,0,0,,{\blur5\bord4\3c&HA49E93&}sobre a minha tristeza oculta.
+Dialogue: 0,0:22:36.00,0:22:40.00,2$Encerramento,,0,0,0,,{\blur5\bord4\c&H3A3D2F&\3c&HF0F4E3&}Eu não me entendo com ninguém.
+Dialogue: 0,0:22:40.62,0:22:42.01,2$Encerramento,,0,0,0,,{\blur5\bord4\c&H3A3D2F&\3c&HF0F4E3&}Nem comigo mesmo.
+Dialogue: 0,0:22:42.01,0:22:44.86,2$Encerramento,,0,0,0,,{\blur5\bord4\3c&H5872C5&}Ordens. Sinta as intenções.
+Dialogue: 0,0:22:44.86,0:22:47.85,2$Encerramento,,0,0,0,,{\blur5\bord4\3c&H5872C5&}Correção. Em vista do ócio.
+Dialogue: 0,0:22:47.85,0:22:50.85,2$Encerramento,,0,0,0,,{\blur5\bord4\3c&HB1B6B1&}Tranquilidade se junta ao pecado.
+Dialogue: 0,0:22:50.85,0:22:52.71,2$Encerramento,,0,0,0,,{\blur5\bord4\c&H3A3D2F&\3c&HDDE1D7&}Isso é claro.
+Dialogue: 0,0:22:53.60,0:22:56.48,2$Encerramento,,0,0,0,,{\blur5\bord4\3c&H65684F&}C{*\3c&H666951&}o{*\3c&H676B54&}n{*\3c&H696D57&}t{*\3c&H6A6F59&}i{*\3c&H6C715C&}n{*\3c&H6D735F&}u{*\3c&H6F7562&}e {*\3c&H727967&}a {*\3c&H757D6C&}s{*\3c&H767F6F&}o{*\3c&H788172&}r{*\3c&H798375&}r{*\3c&H7B8577&}i{*\3c&H7C877A&}r {*\3c&H7F8B7F&}c{*\3c&H818D82&}o{*\3c&H828F85&}m {*\3c&H85938A&}e{*\3c&H86958D&}s{*\3c&H889790&}s{*\3c&H899992&}e {*\3c&H8C9D98&}o{*\3c&H8E9F9B&}l{*\3c&H8FA19D&}h{*\3c&H91A3A0&}a{*\3c&H92A5A3&}r {*\3c&H95A9A8&}c{*\3c&H97ABAB&}o{*\3c&H98ADAE&}n{*\3c&H9AAFB0&}h{*\3c&H9BB1B3&}e{*\3c&H9DB3B6&}c{*\3c&H9EB5B8&}i{*\3c&HA0B7BB&}d{*\3c&HA1B9BE&}o{\3c&HA3BBC1&}.
+Dialogue: 0,0:22:56.48,0:22:59.48,2$Encerramento,,0,0,0,,{\blur5\bord4\3c&H6771A1&}Tema o abismo sem fundo.
+Dialogue: 0,0:22:59.48,0:23:02.57,2$Encerramento,,0,0,0,,{\blur5\bord4\3c&HA49E93&}Dê o seu amor de praxe.
+Dialogue: 0,0:23:02.57,0:23:05.32,2$Encerramento,,0,0,0,,{\blur5\bord4\3c&HA49E93&}You know me
+Dialogue: 0,0:23:05.32,0:23:08.28,2$Encerramento,,0,0,0,,{\blur5\bord4\3c&H8F876F&}Como se eu soubesse, eu danço.
+Dialogue: 0,0:23:08.28,0:23:11.08,2$Encerramento,,0,0,0,,{\blur5\bord4\c&H3A3D2F&\3c&HDFE4D8&}O fundo vai se preenchendo.
+Dialogue: 0,0:23:11.08,0:23:14.26,2$Encerramento,,0,0,0,,{\blur5\bord4\c&H3A3D2F&\3c&HDFE4D8&}Não desista. Não pare.
+Dialogue: 0,0:23:14.26,0:23:19.42,2$Encerramento,,0,0,0,,{\blur5\bord4\c&H3A3D2F&\3c&HDFE4D8&}Você não está só.
 
 [Aegisub Extradata]
 Data: 0,a-mo,e{"uuid"#3A"b1a6957e-5069-4cec-8adf-a5172bbe1f20"#2C"originalText"#3A"{\\blur0.8\\fnMic Check TBS\\frz26.97\\c&H0692FF&\\bord0\\fscx56\\fscy80\\4a&HFF&\\pos(1140.8#2C196.6)}Whoosh"}
@@ -2177,3 +2219,4 @@ Data: 106,_aegi_perspective_ambient_plane,e43.8658;703.098#7C53.7958;703.16#7C53
 Data: 147,a-mo,e{"originalText"#3A"{\\blur0.7\\fnKBWanderAround\\bord0\\b0\\c&H58E2FF&\\frz350.3\\fscx91\\fscy103\\pos(1586#2C200)\\4a&HFF&}CULPADO"#2C"uuid"#3A"a0a93f09-318c-4619-aadc-768541ed3097"}
 Data: 148,a-mo,e{"originalText"#3A"{\\blur0.7\\fnKBWanderAround\\bord18\\b0\\3c&H0D1211&\\c&H0D1211&\\frz350.3\\fscx91\\fscy103\\pos(1586#2C200)}CULPADO"#2C"uuid"#3A"18b4f6ad-2e1b-4409-a8ad-fc795e6d7306"}
 Data: 149,myaa.MergeScripts,e[{"extrakeys"#3A{}#2C"prefix"#3A1#2C"aegisub_garbage"#3A[{"key"#3A"Last Style Storage"#2C"class"#3A"info"#2C"value"#3A"Default"}#2C{"key"#3A"Audio File"#2C"class"#3A"info"#2C"value"#3A"..\/..\/Raws\/[Kirinashi] Undead Unluck - 02.mkv"}#2C{"key"#3A"Video File"#2C"class"#3A"info"#2C"value"#3A"..\/..\/Raws\/[Kirinashi] Undead Unluck - 02.mkv"}#2C{"key"#3A"Keyframes File"#2C"class"#3A"info"#2C"value"#3A"..\/..\/Encodes\/Unluck02_keyframes.txt"}#2C{"key"#3A"Video AR Mode"#2C"class"#3A"info"#2C"value"#3A"4"}#2C{"key"#3A"Video AR Value"#2C"class"#3A"info"#2C"value"#3A"1.777778"}#2C{"key"#3A"Video Zoom Percent"#2C"class"#3A"info"#2C"value"#3A"0.500000"}#2C{"key"#3A"Active Line"#2C"class"#3A"info"#2C"value"#3A"3"}#2C{"key"#3A"Video Position"#2C"class"#3A"info"#2C"value"#3A"32004"}]#2C"file"#3A"Undead Unluck - OP 02.ass"#2C"script_info"#3A[{"key"#3A"Title"#2C"class"#3A"info"#2C"value"#3A"Default Aegisub file"}#2C{"key"#3A"ScriptType"#2C"class"#3A"info"#2C"value"#3A"v4.00+"}#2C{"key"#3A"WrapStyle"#2C"class"#3A"info"#2C"value"#3A"0"}#2C{"key"#3A"ScaledBorderAndShadow"#2C"class"#3A"info"#2C"value"#3A"yes"}#2C{"key"#3A"YCbCr Matrix"#2C"class"#3A"info"#2C"value"#3A"TV.709"}#2C{"key"#3A"PlayResX"#2C"class"#3A"info"#2C"value"#3A"1920"}#2C{"key"#3A"PlayResY"#2C"class"#3A"info"#2C"value"#3A"1080"}]}]
+Data: 150,myaa.MergeScripts,e[{"file"#3A"..\/..\/..\/..\/Undead Unluck\/Undead Unluck - ED 02.ass"#2C"script_info"#3A[{"key"#3A"Title"#2C"class"#3A"info"#2C"value"#3A"Default Aegisub file"}#2C{"key"#3A"ScriptType"#2C"class"#3A"info"#2C"value"#3A"v4.00+"}#2C{"key"#3A"WrapStyle"#2C"class"#3A"info"#2C"value"#3A"0"}#2C{"key"#3A"ScaledBorderAndShadow"#2C"class"#3A"info"#2C"value"#3A"yes"}#2C{"key"#3A"YCbCr Matrix"#2C"class"#3A"info"#2C"value"#3A"TV.709"}#2C{"key"#3A"PlayResX"#2C"class"#3A"info"#2C"value"#3A"1920"}#2C{"key"#3A"PlayResY"#2C"class"#3A"info"#2C"value"#3A"1080"}]#2C"aegisub_garbage"#3A[{"key"#3A"Last Style Storage"#2C"class"#3A"info"#2C"value"#3A"Default"}#2C{"key"#3A"Audio File"#2C"class"#3A"info"#2C"value"#3A"..\/..\/ANIMES\/Undead Unluck\/[Kirinashi] Undead Unluck - 002 [F88DB48B].mkv"}#2C{"key"#3A"Video File"#2C"class"#3A"info"#2C"value"#3A"..\/..\/ANIMES\/Undead Unluck\/[Kirinashi] Undead Unluck - 002 [F88DB48B].mkv"}#2C{"key"#3A"Video AR Mode"#2C"class"#3A"info"#2C"value"#3A"4"}#2C{"key"#3A"Video AR Value"#2C"class"#3A"info"#2C"value"#3A"1.777778"}#2C{"key"#3A"Video Zoom Percent"#2C"class"#3A"info"#2C"value"#3A"0.500000"}#2C{"key"#3A"Scroll Position"#2C"class"#3A"info"#2C"value"#3A"12"}#2C{"key"#3A"Video Position"#2C"class"#3A"info"#2C"value"#3A"31911"}]#2C"prefix"#3A2#2C"extrakeys"#3A{}}]

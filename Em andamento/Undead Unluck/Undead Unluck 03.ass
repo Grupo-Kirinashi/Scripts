@@ -355,7 +355,7 @@ Dialogue: 0,0:22:00.01,0:22:05.01,Tenebris-signs,,0,0,0,,{\an7\blur1\bord0\shad0
 Dialogue: 1,0:22:00.01,0:22:05.01,Tenebris-signs,,0,0,0,,{\fnBadgerBold\b0\fs120\blur0.6\an6\pos(1814,926)}CONTINUA
 Dialogue: 0,0:23:35.02,0:23:35.77,Tenebris-signs,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(960,540)\p1\c&H000000&}m -282 -168 l 280 -168 280 156 -282 156
 Dialogue: 1,0:23:35.02,0:23:35.77,Tenebris-signs,,0,0,0,,{\fnFOT-セザンヌ ProN B\b1\fs150\blur0.6\pos(960,540)\c&HFFFFFF&}PRÉVIA
-Dialogue: 0,0:23:42.57,0:23:47.32,Tenebris-signs,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(960,640)\p1\c&H000000&}m -462 -219 l -412 -194 -363 -206 -288 -210 -216 -194 -111 -205 -19 -206 399 -223 712 -156 683 195 125 219 -472 204
+Dialogue: 0,0:23:42.57,0:23:47.32,Tenebris-signs,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(960,640)\p1\c&H000000&}m -433 200 l 652 208 672 -275 116 -232 -59 -188 -143 -205 -199 -204 -333 -217 -424 -191
 Dialogue: 1,0:23:42.57,0:23:47.32,Tenebris-signs,,0,0,0,,{\fnFOT-セザンヌ ProN EB\b0\fs150\fscy120\blur0.6\pos(960,640)\c&HFCFEFD&}VOCÊ AMA A MUDANÇA EM MIM?
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,import,{=0}Undead Unluck - ED 03.ass
 Comment: 0,0:22:10.98,0:22:11.03,1$Encerramento,,0,0,0,,ED - Ponte
@@ -394,7 +394,7 @@ Dialogue: 0,0:22:53.65,0:22:56.53,1$Encerramento,,0,0,0,,{\blur5\bord4\3c&H65684
 Dialogue: 0,0:22:56.53,0:22:59.53,1$Encerramento,,0,0,0,,{\blur5\bord4\3c&H6771A1&}Tema o abismo sem fundo.
 Dialogue: 0,0:22:59.53,0:23:02.62,1$Encerramento,,0,0,0,,{\blur5\bord4\3c&HA49E93&}Dê o seu amor de praxe.
 Dialogue: 0,0:23:02.62,0:23:05.37,1$Encerramento,,0,0,0,,{\blur5\bord4\3c&HA49E93&}You know me
-Dialogue: 0,0:23:05.37,0:23:08.33,1$Encerramento,,0,0,0,,{\blur5\bord4\3c&H8F876F&}Como se eu soubesse eu danço.
+Dialogue: 0,0:23:05.37,0:23:08.33,1$Encerramento,,0,0,0,,{\blur5\bord4\3c&H8F876F&}Como se eu soubesse, eu danço.
 Dialogue: 0,0:23:08.33,0:23:11.13,1$Encerramento,,0,0,0,,{\blur5\bord4\c&H3A3D2F&\3c&HDFE4D8&}O fundo vai se preenchendo.
 Dialogue: 0,0:23:11.13,0:23:14.31,1$Encerramento,,0,0,0,,{\blur5\bord4\c&H3A3D2F&\3c&HDFE4D8&}Não desista. Não pare.
 Dialogue: 0,0:23:14.31,0:23:19.47,1$Encerramento,,0,0,0,,{\blur5\bord4\c&H3A3D2F&\3c&HDFE4D8&}Você não está só.

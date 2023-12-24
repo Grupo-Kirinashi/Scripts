@@ -8,10 +8,6 @@ YCbCr Matrix: TV.709
 PlayResX: 1920
 PlayResY: 1080
 
-[Aegisub Project Garbage]
-Scroll Position: 274
-Active Line: 318
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Fontin Sans Rg,75,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,3.6,1.5,2,225,225,60,1
@@ -537,7 +533,7 @@ Dialogue: 0,0:22:53.56,0:22:56.44,1$Encerramento,,0,0,0,,{\blur5\bord4\3c&H65684
 Dialogue: 0,0:22:56.44,0:22:59.44,1$Encerramento,,0,0,0,,{\blur5\bord4\3c&H6771A1&}Tema o abismo sem fundo.
 Dialogue: 0,0:22:59.44,0:23:02.53,1$Encerramento,,0,0,0,,{\blur5\bord4\3c&HA49E93&}Dê o seu amor de praxe.
 Dialogue: 0,0:23:02.53,0:23:05.28,1$Encerramento,,0,0,0,,{\blur5\bord4\3c&HA49E93&}You know me
-Dialogue: 0,0:23:05.28,0:23:08.24,1$Encerramento,,0,0,0,,{\blur5\bord4\3c&H8F876F&}Como se eu soubesse eu danço.
+Dialogue: 0,0:23:05.28,0:23:08.24,1$Encerramento,,0,0,0,,{\blur5\bord4\3c&H8F876F&}Como se eu soubesse, eu danço.
 Dialogue: 0,0:23:08.24,0:23:11.04,1$Encerramento,,0,0,0,,{\blur5\bord4\c&H3A3D2F&\3c&HDFE4D8&}O fundo vai se preenchendo.
 Dialogue: 0,0:23:11.04,0:23:14.22,1$Encerramento,,0,0,0,,{\blur5\bord4\c&H3A3D2F&\3c&HDFE4D8&}Não desista. Não pare.
 Dialogue: 0,0:23:14.22,0:23:19.38,1$Encerramento,,0,0,0,,{\blur5\bord4\c&H3A3D2F&\3c&HDFE4D8&}Você não está só.
