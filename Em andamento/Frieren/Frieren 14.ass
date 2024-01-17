@@ -52,7 +52,7 @@ Dialogue: 0,0:02:55.57,0:02:58.37,Default,,0,0,0,,Nunca escuta nada do que ele d
 Dialogue: 0,0:03:00.97,0:03:04.11,Default,,0,0,0,,Eu também não comprei nada.
 Dialogue: 0,0:03:04.11,0:03:09.63,Default,,0,0,0,,Homens são criaturas que não se importam com coisas insignificantes como aniversários e comemorações.
 Comment: 0,0:03:10.89,0:03:11.22,Default,,0,0,0,,Ai!
-Dialogue: 0,0:03:11.82,0:03:14.71,Default,,0,0,0,,Tá,  já entendi! Vou comprar, agora para de me chutar.
+Dialogue: 0,0:03:11.82,0:03:14.71,Default,,0,0,0,,Tá, já entendi! Vou comprar, agora para de me chutar.
 Dialogue: 0,0:03:14.71,0:03:17.39,Default,,0,0,0,,Meu joelho vai chorar depois.
 Dialogue: 0,0:03:22.00,0:03:25.55,Default,,0,0,0,,Sério, eu fico com pena do Stark.
 Dialogue: 0,0:03:25.55,0:03:29.21,Default,,0,0,0,,Quando chega na minha idade, desenvolve uma tolerância...
@@ -150,7 +150,7 @@ Dialogue: 0,0:09:44.11,0:09:51.13,Past,,0,0,0,,Só fingi ser um adulto até que 
 Dialogue: 0,0:09:51.76,0:09:56.20,Past,,0,0,0,,Provavelmente continuarei fingindo até morrer.
 Dialogue: 0,0:09:56.63,0:10:01.96,Past,,0,0,0,,As crianças precisam dos adultos\Npara terem um suporte emocional.
 Dialogue: 0,0:10:02.93,0:10:04.96,Past,,0,0,0,,A Fern em especial é muito dedicada.
-Dialogue: 0,0:10:05.62,0:10:08.71,Past,,0,0,0,,Precisa de muito elogios e orientação.
+Dialogue: 0,0:10:05.62,0:10:08.71,Past,,0,0,0,,Precisa de muitos elogios e orientação.
 Dialogue: 0,0:10:09.45,0:10:14.97,Past,,0,0,0,,Então quem vai elogiá-lo por fingir ser adulto até morrer?
 Dialogue: 0,0:10:16.01,0:10:19.72,Past,,0,0,0,,É para isso que a Deusa existe.
 Dialogue: 0,0:10:20.15,0:10:23.16,Past,,0,0,0,,Embora eu tenha que esperar até ir para o Paraíso para isso. {acho que bem no começo eu usei "Céu" para "tengoku". Se for fazer o BD, anota para dar uma olhada nisso}
@@ -354,10 +354,10 @@ Dialogue: 2,0:11:34.97,0:11:40.47,Signs,,0,0,0,,{\an6\fnHiroshige\fs40\blur0.7\c
 Dialogue: 1,0:11:34.97,0:11:40.47,Signs,,0,0,0,,{\an6\fnHiroshige\fs40\blur0.7\c&HFFF360&\1a&H89&\pos(1536.12,231)\b0}Região Norte.
 Dialogue: 1,0:11:34.97,0:11:40.47,Signs,,0,0,0,,{\an6\fnHiroshige\fs40\blur0.7\c&H875EFF&\1a&H4E&\pos(1536.12,233)\b0}Região Norte.
 Dialogue: 0,0:11:34.97,0:11:40.47,Signs,,0,0,0,,{\an6\fnHiroshige\fs40\blur15\c&H000000&\1a&HE6&\pos(1536.12,232)\b0}Região Norte.
-Dialogue: 2,0:11:34.97,0:11:40.47,Signs,,0,0,0,,{\an6\fnHiroshige\fs40\pos(1527,272)\blur0.7\c&HFFFFFF&\b0}Floresta Bande
-Dialogue: 1,0:11:34.97,0:11:40.47,Signs,,0,0,0,,{\an6\fnHiroshige\fs40\pos(1527,271)\blur0.7\c&HFFF360&\1a&H89&\b0}Floresta Bande
+Dialogue: 2,0:11:34.97,0:11:40.47,Signs,,0,0,0,,{\an6\fnHiroshige\fs40\pos(1527,272)\blur0.7\c&HFFFFFF&\b0}Floresta Bande.
+Dialogue: 1,0:11:34.97,0:11:40.47,Signs,,0,0,0,,{\an6\fnHiroshige\fs40\pos(1527,271)\blur0.7\c&HFFF360&\1a&H89&\b0}Floresta Bande.
 Dialogue: 1,0:11:34.97,0:11:40.47,Signs,,0,0,0,,{\an6\fnHiroshige\fs40\pos(1527,273)\blur0.7\c&H875EFF&\1a&H4E&\b0}Floresta Bande
-Dialogue: 0,0:11:34.97,0:11:40.47,Signs,,0,0,0,,{\an6\fnHiroshige\fs40\pos(1527,272)\blur15\c&H000000&\1a&HE6&\b0}Floresta Bande
+Dialogue: 0,0:11:34.97,0:11:40.47,Signs,,0,0,0,,{\an6\fnHiroshige\fs40\pos(1527,272)\blur15\c&H000000&\1a&HE6&\b0}Floresta Bande.
 Dialogue: 1,0:24:19.98,0:24:27.45,Signs,,0,0,0,,{\an7\pos(0,0)\fad(396,392)\c&HCFCFCF&\p1}m -2 -2 l 1922 -2 1922 1082 -2 1082
 Dialogue: 0,0:24:19.98,0:24:20.44,Signs,,0,0,0,,{\an7\pos(0,0)\c&H000000&\p1}m -2 -2 l 1922 -2 1922 1082 -2 1082
 Dialogue: 0,0:24:27.03,0:24:29.95,Signs,,0,0,0,,{\an7\pos(0,0)\c&H000000&\p1}m -2 -2 l 1922 -2 1922 1082 -2 1082

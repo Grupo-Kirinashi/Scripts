@@ -184,7 +184,7 @@ Dialogue: 0,0:11:21.27,0:11:23.84,Default,,0,0,0,,Ele tem uma sorte absurda.
 Dialogue: 0,0:11:23.84,0:11:24.66,Default,,0,0,0,,Sein.
 Dialogue: 0,0:11:25.20,0:11:27.37,Default,,0,0,0,,Soube que estão procurando um companheiro.
 Dialogue: 0,0:11:27.37,0:11:28.93,Default,,0,0,0,,Procurem outra pessoa.
-Dialogue: 0,0:11:29.56,0:11:31.80,Default,,0,0,0,,Não quer se tornar uma aventureiro?
+Dialogue: 0,0:11:29.56,0:11:31.80,Default,,0,0,0,,Não quer se tornar um aventureiro?
 Dialogue: 0,0:11:32.13,0:11:36.63,Default,,0,0,0,,Já disse que foi há muito tempo. Agora é tarde.
 Dialogue: 0,0:11:37.29,0:11:40.58,Default,,0,0,0,,Eu deveria ter ido atrás dele antes.
 Dialogue: 0,0:11:41.94,0:11:45.19,Default,,0,0,0,,Aqui só resta um perdedor só de cueca.
@@ -281,7 +281,7 @@ Dialogue: 0,0:17:35.32,0:17:37.78,Default,,0,0,0,,Talvez ainda seja cedo para vo
 Dialogue: 0,0:17:38.28,0:17:41.33,Default,,0,0,0,,Alguém pode levar essa criança pra casa?
 Dialogue: 0,0:17:41.33,0:17:43.04,Default,,0,0,0,,Foi sexy demais!
 Dialogue: 0,0:17:43.04,0:17:44.88,Default,,0,0,0,,Qual o problema de vocês?
-Dialogue: 0,0:17:44.88,0:17:50.59,Default,,0,0,0,,Que estranho. Foi superefetivo quanto testei no Himmel.
+Dialogue: 0,0:17:44.88,0:17:50.59,Default,,0,0,0,,Que estranho. Foi superefetivo quando testei no Himmel.
 Dialogue: 0,0:17:53.34,0:17:55.26,Past,,0,0,0,,Himmel!
 Dialogue: 0,0:17:55.26,0:17:57.10,Past,,0,0,0,,Mulher pecadora.
 Dialogue: 0,0:17:57.48,0:17:58.70,Default,,0,0,0,,Que estranho.
@@ -401,9 +401,9 @@ Dialogue: 2,0:24:22.11,0:24:23.73,Signs,,0,0,0,,{\q2\fnTimes New Roman\fad(175,4
 Dialogue: 6,0:24:21.27,0:24:23.78,Signs,,0,0,0,,{\q2\fnTimes New Roman\fad(175,400)\c&H000000&\blur20\fs60\fsp5\t(20,290,\blur0.9)\t(1750,2480,\blur20)\t(\fs50\fsp0)\move(862,302,862,332)\b0}Acho que morreria...
 Dialogue: 5,0:24:21.27,0:24:23.78,Signs,,0,0,0,,{\q2\fnTimes New Roman\fad(175,400)\c&HCEFF13&\alpha&HFF&\blur1\fs60\fsp5\t(20,270,\blur0.9)\t(\fs50\fsp0)\move(864,304,864,334)\t(265,265,\alpha&HA0&)\t(1800,1870,\alpha&HFF&)\b0}Acho que morreria...
 Dialogue: 5,0:24:21.27,0:24:23.78,Signs,,0,0,0,,{\q2\fnTimes New Roman\fad(175,400)\c&H0880E6&\alpha&HFF&\blur1\fs60\fsp5\t(20,270,\blur0.9)\t(\fs50\fsp0)\move(860,300,860,330)\t(265,265,\alpha&HA0&)\t(1800,1870,\alpha&HFF&)\b0}Acho que morreria...
-Dialogue: 6,0:24:22.19,0:24:24.90,Signs,,0,0,0,,{\q2\fnTimes New Roman\fad(175,400)\c&H000000&\blur20\fs100\fsp5\t(20,290,\blur0.9)\t(2050,2640,\blur20)\t(\fs90\fsp0)\move(596.64,362,662.64,392)\b0}Vamos fazer comprar juntos depois.
-Dialogue: 5,0:24:22.19,0:24:24.90,Signs,,0,0,0,,{\q2\fnTimes New Roman\fad(175,400)\c&HCEFF13&\alpha&HFF&\blur1\fs100\fsp5\t(20,270,\blur0.9)\t(\fs90\fsp0)\move(599.28,364,665.28,394)\t(265,265,\alpha&HA0&)\t(2070,2140,\alpha&HFF&)\b0}Vamos fazer comprar juntos depois.
-Dialogue: 5,0:24:22.19,0:24:24.90,Signs,,0,0,0,,{\q2\fnTimes New Roman\fad(175,400)\c&H0880E6&\alpha&HFF&\blur1\fs100\fsp5\t(20,270,\blur0.9)\t(\fs90\fsp0)\move(594,360,660,390)\t(265,265,\alpha&HA0&)\t(2070,2140,\alpha&HFF&)\b0}Vamos fazer comprar juntos depois.
+Dialogue: 6,0:24:22.19,0:24:24.90,Signs,,0,0,0,,{\q2\fnTimes New Roman\fad(175,400)\c&H000000&\blur20\fs100\fsp5\t(20,290,\blur0.9)\t(2050,2640,\blur20)\t(\fs90\fsp0)\move(596.64,362,662.64,392)\b0}Vamos fazer compras juntos depois.
+Dialogue: 5,0:24:22.19,0:24:24.90,Signs,,0,0,0,,{\q2\fnTimes New Roman\fad(175,400)\c&HCEFF13&\alpha&HFF&\blur1\fs100\fsp5\t(20,270,\blur0.9)\t(\fs90\fsp0)\move(599.28,364,665.28,394)\t(265,265,\alpha&HA0&)\t(2070,2140,\alpha&HFF&)\b0}Vamos fazer compras juntos depois.
+Dialogue: 5,0:24:22.19,0:24:24.90,Signs,,0,0,0,,{\q2\fnTimes New Roman\fad(175,400)\c&H0880E6&\alpha&HFF&\blur1\fs100\fsp5\t(20,270,\blur0.9)\t(\fs90\fsp0)\move(594,360,660,390)\t(265,265,\alpha&HA0&)\t(2070,2140,\alpha&HFF&)\b0}Vamos fazer compras juntos depois.
 Dialogue: 6,0:24:23.11,0:24:25.99,Signs,,0,0,0,,{\q2\fnTimes New Roman\fad(175,400)\c&H000000&\blur20\fs90\fsp5\t(20,290,\blur0.9)\t(2120,2854,\blur20)\t(\fs80\fsp0)\move(1104.47,576,1073.08,569)\b0}Em horas assim, temos que ajudar uns aos outros.
 Dialogue: 5,0:24:23.11,0:24:25.99,Signs,,0,0,0,,{\q2\fnTimes New Roman\fad(175,400)\c&HCEFF13&\alpha&HFF&\blur1\fs90\fsp5\t(20,270,\blur0.9)\t(\fs80\fsp0)\move(1105.21,577,1073.82,570)\t(265,265,\alpha&HA0&)\t(2210,2280,\alpha&HFF&)\b0}Em horas assim, temos que ajudar uns aos outros.
 Dialogue: 5,0:24:23.11,0:24:25.99,Signs,,0,0,0,,{\q2\fnTimes New Roman\fad(175,400)\c&H0880E6&\alpha&HFF&\blur1\fs90\fsp5\t(20,270,\blur0.9)\t(\fs80\fsp0)\move(1103.71,575,1072.33,568)\t(265,265,\alpha&HA0&)\t(2210,2280,\alpha&HFF&)\b0}Em horas assim, temos que ajudar uns aos outros.
