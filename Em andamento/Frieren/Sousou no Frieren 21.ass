@@ -468,8 +468,8 @@ Dialogue: 4,0:01:12.47,0:01:12.59,Signs,,0,0,0,,{\fnGrain\fs101\b0\blur0.9\1a&HF
 Dialogue: 2,0:01:12.47,0:01:12.59,Signs,,0,0,0,,{\blur1\fnMasqualero Pro Stencil\b0\c&HB4A746&\1a&H77&\fs131.5\fsp16.5\pos(976.28,845.35)\iclip(m 631.81 823.47 l 636.88 812.11 662.3 804.74 680.41 798.9 677.49 783.7 1645.39 773.7 1640.93 893.35 646.86 894.86 644.57 883.43 645.71 869.71 638.86 865.14 633.14 850.29)}A FUNERÁRIA
 Dialogue: 2,0:01:12.47,0:01:12.59,Signs,,0,0,0,,{\blur1\fnMasqualero Pro Stencil\b0\c&H98FF91&\1a&H77&\fs131.5\fsp16.5\pos(974.35,844.2)\iclip(m 631.81 823.47 l 636.88 812.11 662.3 804.74 680.41 798.9 677.49 783.7 1645.39 773.7 1640.93 893.35 646.86 894.86 644.57 883.43 645.71 869.71 638.86 865.14 633.14 850.29)}A FUNERÁRIA
 Comment: 0,0:22:50.06,0:22:50.10,ED,,0,0,0,sync,ED
-Dialogue: 0,0:22:50.06,0:22:52.23,ED,,0,0,0,,{\fad(250,250)\blur4\bord3\c&H000000&\3c&HFFFFFF&\shad0}E eu estou bem
-Dialogue: 0,0:22:51.39,0:22:53.24,ED,,0,0,0,,{\fad(250,250)\blur4\bord3\c&H000000&\3c&HFFFFFF&\shad0\an3}(Eu ficarei bem) {acho bom dividir parte an1 e o parentese an3}
+Dialogue: 0,0:22:50.06,0:22:52.23,ED,,0,0,0,,{\fad(250,250)\blur4\bord3\c&H000000&\3c&HFFFFFF&\shad0}E eu estou bem.
+Dialogue: 0,0:22:51.39,0:22:53.24,ED,,0,0,0,,{\fad(250,250)\blur4\bord3\c&H000000&\3c&HFFFFFF&\shad0\an3}(Eu ficarei bem.) {acho bom dividir parte an1 e o parentese an3}
 Dialogue: 0,0:22:53.06,0:22:55.09,ED,,0,0,0,,{\fad(250,250)\blur4\bord3\c&H000000&\3c&HFFFFFF&\shad0}Sim, eu te escuto.
 Dialogue: 0,0:22:54.50,0:22:56.01,ED,,0,0,0,,{\fad(250,250)\an3\blur4\bord3\c&H000000&\3c&HFFFFFF&\shad0}(Eu me importo com você.)
 Dialogue: 0,0:22:56.01,0:23:01.70,ED,,0,0,0,,{\fad(250,250)\blur4\bord3\c&H000000&\3c&HFFFFFF&\shad0}O vento brinca com meus cabelos longos.
